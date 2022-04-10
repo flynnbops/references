@@ -5,14 +5,15 @@ I'll try group things by category. Rather than by tool, blog etc.
 
 ## Sections
 
-- [Security][1]
-- [Career][2]
-- [Performance][3]
-- [Accessibility][4]
-- [Learning][5]
-- [Blogs][6]
-- [Careers][7]
+- [Security - Wip][1]
+- [Career - Wip][2]
+- [Performance - Tbd][3]
+- [Accessibility - Tbd][4]
+- [Learning - Tbd][5]
+- [Blogs - Tbd][6]
+- [SRE - Wip][7]
 
 
 [1]: security.md
 [2]: career.md
+[7]: sre.md
