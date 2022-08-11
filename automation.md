@@ -2,7 +2,7 @@
 Place to collect useful info on Test automation, frameworks, approaches, etc.
 
 ## Capybara (Ruby)
-Acceptance testing DSL that wraps around Selenium. Results in "acceptance test" like langauge in the tests.
+Acceptance testing DSL that wraps around Selenium. Results in "acceptance test" like language in the tests.
 
 - [Capybara Docs][1]
 - [HM Land Registry Skeleton][2] I added lots of info on Capybara and Page Objects in the README and Wiki.
@@ -17,10 +17,10 @@ UI testing tooling used during development. Framework lives with the code, not s
 - [TAU: Introduction to Cypress][6]
 
 <!--- Capybara --->
-1: https://github.com/teamcapybara/capybara
-2: https://github.com/LandRegistry/skeleton-acceptance-tests
-3: https://testautomationu.applitools.com/capybara-ruby/index.html
+[1]:https://github.com/teamcapybara/capybara
+[2]:https://github.com/LandRegistry/skeleton-acceptance-tests
+[3]:https://testautomationu.applitools.com/capybara-ruby/index.html
 <!--- Cypress --->
-4: https://docs.cypress.io/
-5: https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
-6: https://testautomationu.applitools.com/cypress-tutorial/
+[4]:https://docs.cypress.io/
+[5]:https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
+[6]:https://testautomationu.applitools.com/cypress-tutorial/
