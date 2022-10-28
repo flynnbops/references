@@ -10,6 +10,7 @@ All WIP
 - [Security][2]
 - [Career][3]
 - [SRE][4]
+- [Conferences][5]
 
 TODO:
 - Performance
@@ -24,3 +25,4 @@ TODO:
 [2]: security.md
 [3]: career.md
 [4]: sre.md
+[5]: conferences.md
