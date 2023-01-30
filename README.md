@@ -11,6 +11,7 @@ All WIP
 - [Career][3]
 - [SRE][4]
 - [Conferences][5]
+- [Training][6]
 
 TODO:
 - Performance
@@ -26,3 +27,4 @@ TODO:
 [3]: career.md
 [4]: sre.md
 [5]: conferences.md
+[6]: training.md
