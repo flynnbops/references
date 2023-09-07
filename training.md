@@ -1,7 +1,7 @@
 # Training
 Place to collect useful info on training and general improvement.
 
-## My go to sites
+## My go-to sites
 - [Ministry of testing(MoT)][1]
 - [Test automation University(TAU)][2]
 

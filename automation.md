@@ -16,6 +16,13 @@ UI testing tooling used during development. Framework lives with the code, not s
 - [Cypress App Actions vs Page Objects][5]
 - [TAU: Introduction to Cypress][6]
 
+## Gatling
+Automated load testing
+
+- [Gatling academy][7]
+- [Load testing with Gating pt.1 ][8]
+- [Load testing with Gating pt.2 ][9]
+
 <!--- Capybara --->
 [1]:https://github.com/teamcapybara/capybara
 [2]:https://github.com/LandRegistry/skeleton-acceptance-tests
@@ -24,3 +31,7 @@ UI testing tooling used during development. Framework lives with the code, not s
 [4]:https://docs.cypress.io/
 [5]:https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
 [6]:https://testautomationu.applitools.com/cypress-tutorial/
+<!--- Gatling --->
+[7]: https://academy.gatling.io/collections
+[8]: https://drawntocode.com/garden/load-testing-with-gatling-i/
+[9]: https://drawntocode.com/garden/load-testing-with-gatling-ii/

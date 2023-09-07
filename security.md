@@ -1,6 +1,7 @@
 # Security
 
 ## Reading
+- https://owasp.org/www-project-web-security-testing-guide/
 
 ## Tools
 - https://jeremylong.github.io/DependencyCheck/analyzers/index.html
@@ -12,3 +13,4 @@
  - https://tryhackme.com/hacktivities
  - https://workos.com/blog/fun-with-saml-sso-vulnerabilities-and-footguns
  - https://www.youtube.com/watch?v=SvppXbpv-5k
+ - https://badssl.com/
