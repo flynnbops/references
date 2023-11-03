@@ -1,15 +1,18 @@
 # Career
 
 ## Frameworks / playbooks
-- https://about.gitlab.com/handbook/
-- https://opensource.guide/
 - [Alan Page's Quality culture transition guide][1]
-- https://monzo.com/blog/2019/01/07/progression
 - [DDaT framework][2]
 - [Career ladders][3]
+- [Dropbox career framework][7]
+- [Monzo progression guide][8]
+- [Gitlab handbook][9] Includes role stuff, among other things.
+
+### Career advice
 - [Engineer-manager pendulum][4]
 - [Know your job][5]
 - [Premature Senior][6]
+
 
 ## Tools / techniques
 - https://learnwardleymapping.com/
@@ -19,6 +22,7 @@
 - https://endoflife.date/
 
 ## Misc 
+- [Guide to getting involved in Open source][10]
 - https://delphis.org.uk/peak-performance/stress-and-the-pressure-performance-curve/
 - https://featureflags.io/
 
@@ -28,3 +32,7 @@
 [4]:https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
 [5]:https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/
 [6]:https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/
+[7]:https://dropbox.github.io/dbx-career-framework/overview.html
+[8]:https://monzo.com/blog/2019/01/07/progression
+[9]:https://about.gitlab.com/handbook/
+[10]:https://opensource.guide/
