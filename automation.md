@@ -23,6 +23,9 @@ Automated load testing
 - [Load testing with Gating pt.1 ][8]
 - [Load testing with Gating pt.2 ][9]
 
+## Game testing
+- [Game Automated Testing Resource Hub - Trello](https://trello.com/b/nGE5yqZk/game-automated-testing-resource-hub)
+
 <!--- Capybara --->
 [1]:https://github.com/teamcapybara/capybara
 [2]:https://github.com/LandRegistry/skeleton-acceptance-tests
