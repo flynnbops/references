@@ -14,3 +14,9 @@
  - https://workos.com/blog/fun-with-saml-sso-vulnerabilities-and-footguns
  - https://www.youtube.com/watch?v=SvppXbpv-5k
  - https://badssl.com/
+ -  [My OWASP top 10 2021 mindmap][1]
+ -  [Portswigger learning][2] the people behind Burpsuite
+
+
+[1]: https://atlas.mindmup.com/azza554/security_prompts/index.html
+[2]: https://portswigger.net/web-security/dashboard
