@@ -26,6 +26,10 @@ Automated load testing
 ## Game testing
 - [Game Automated Testing Resource Hub - Trello](https://trello.com/b/nGE5yqZk/game-automated-testing-resource-hub)
 
+## Test data
+- [Offcom UK phone numbers for TV and Drama][10]
+- [Faker][11] data
+
 <!--- Capybara --->
 [1]:https://github.com/teamcapybara/capybara
 [2]:https://github.com/LandRegistry/skeleton-acceptance-tests
@@ -38,3 +42,6 @@ Automated load testing
 [7]: https://academy.gatling.io/collections
 [8]: https://drawntocode.com/garden/load-testing-with-gatling-i/
 [9]: https://drawntocode.com/garden/load-testing-with-gatling-ii/
+
+[10]: https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/numbering/numbers-for-drama
+[11]: https://fakerjs.dev/
