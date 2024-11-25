@@ -13,6 +13,9 @@
 - [Know your job][5]
 - [Premature Senior][6]
 
+## Team / community stuff
+- [Spotify engineering culture video part 1][11]
+- [Spotify engineering culture video part 2][12]
 
 ## Tools / techniques
 - https://learnwardleymapping.com/
@@ -36,3 +39,5 @@
 [8]:https://monzo.com/blog/2019/01/07/progression
 [9]:https://about.gitlab.com/handbook/
 [10]:https://opensource.guide/
+[11]:https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-1/
+[12]:https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-2/
