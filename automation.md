@@ -1,6 +1,11 @@
 # Automation
 Place to collect useful info on Test automation, frameworks, approaches, etc.
 
+## Videos
+Workshops, presenations, anything I liked
+
+-[Angie Jones: What to automate - SauceCon 2018][13]
+
 ## Capybara (Ruby)
 Acceptance testing DSL that wraps around Selenium. Results in "acceptance test" like language in the tests.
 
@@ -45,3 +50,5 @@ Automated load testing
 
 [10]: https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/numbering/numbers-for-drama
 [11]: https://fakerjs.dev/
+
+[13]: https://youtu.be/VL-_pnICmGY?si=0GyHH6sKuQicGvrp
