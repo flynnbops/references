@@ -6,6 +6,10 @@ Place to collect useful info on training and general improvement.
 - [Test automation University(TAU)][2]
 
 
+## Additional training sites
+- [SQL bolt][4] fre online SQL exercises and lessons
+
+
 ## ISTQB
 
 Love them or hate them, they exist, and [provide certifications][3]. I've completed several over the years. Some have been more beneficial to me at the time that others. 
@@ -46,4 +50,5 @@ Interesting topics on process improvement, metrics, and the people you work with
 
 [1]: https://www.ministryoftesting.com/
 [2]: https://testautomationu.applitools.com/
-[3]: https://www.istqb.org/certifications/certification-list
+[3]: https://www.istqb.org/certifications/certification-list\
+[4]: https://sqlbolt.com/
