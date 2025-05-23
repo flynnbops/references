@@ -34,6 +34,7 @@ Automated load testing
 ## Test data
 - [Offcom UK phone numbers for TV and Drama][10]
 - [Faker][11] data
+- Not quite test data but good browser plugin to highlight different environments [environment marker][14]
 
 <!--- Capybara --->
 [1]:https://github.com/teamcapybara/capybara
@@ -52,3 +53,4 @@ Automated load testing
 [11]: https://fakerjs.dev/
 
 [13]: https://youtu.be/VL-_pnICmGY?si=0GyHH6sKuQicGvrp
+[14]: https://environmentmarker.io/
