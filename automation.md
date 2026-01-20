@@ -4,7 +4,8 @@ Place to collect useful info on Test automation, frameworks, approaches, etc.
 ## Videos
 Workshops, presenations, anything I liked
 
--[Angie Jones: What to automate - SauceCon 2018][13]
+- [Angie Jones: What to automate - SauceCon 2018][13]
+  - [Spreadsheet used in video][15] 
 
 ## Capybara (Ruby)
 Acceptance testing DSL that wraps around Selenium. Results in "acceptance test" like language in the tests.
@@ -54,3 +55,4 @@ Automated load testing
 
 [13]: https://youtu.be/VL-_pnICmGY?si=0GyHH6sKuQicGvrp
 [14]: https://environmentmarker.io/
+[15]: https://drive.google.com/file/d/11JVP8z7KHYEsxEqkO1wul5tPfLAk1TsG/view
